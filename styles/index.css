@@ -4,3 +4,12 @@
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+body{
+    background:url(../images/bg-bottom.svg) left bottom no-repeat, url(../images/bg-top.svg) right top no-repeat;
+	margin:0;
+	padding:0;
+}
+.container-fluid{
+    height: 100vh !important;
+}
