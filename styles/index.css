@@ -13,3 +13,10 @@ body{
 .container-fluid{
     height: 100vh !important;
 }
+
+.main{
+    padding-bottom: 5%;
+    padding-top: 6%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
