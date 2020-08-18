@@ -18,15 +18,19 @@ body{
 
 .primary{
     background: linear-gradient( hsl(236, 72%, 79%),hsl(237, 63%, 64%));
+    color:hsl(240, 78%, 98%);
+    height: 300px;
 }
 
 .secondary{
     background:hsl(240, 78%, 98%);
+    color:hsl(232, 13%, 33%);
+    height:200px;
 }
 
-.columns{
+/* .columns{
     border-radius: 5%;
-}
+} */
 
 .pbtn{
     background: linear-gradient( hsl(236, 72%, 79%),hsl(237, 63%, 64%));
@@ -37,5 +41,19 @@ body{
 .sbtn{
     background:hsl(240, 78%, 98%);
     padding: 5px 70px;
-    color:
+    color:hsl(233, 13%, 49%);
+}
+
+.top{
+    padding-left: 38%; 
+    padding-bottom:25px; 
+}
+.topt{
+    padding-left: 36%;
+}
+.tlabel1{
+    padding-right: 17px;
+}
+.tlabel2{
+    padding-left: 3px;
 }
